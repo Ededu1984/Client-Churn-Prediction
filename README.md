@@ -74,7 +74,7 @@ ___
 It was observed the credit score has a great influence in churn situation
 
 ## Credit score range
-![](img/credit_score.JPG)
+![](img/credit_score.jpg)
 
 
 ## Credit score factors
@@ -103,6 +103,18 @@ Some techniques such as undersampling, oversampling were employed
 
 ___
 <br />
-The confusion matrix after all attempts throughout the project
+The metrics and confusion matrix after all attempts throughout the project using SVC, Random Forest and XGBoost.
 
+Metrics of the best model after using hyperparameter fine tuning
+
+<br />
+
+![](img/metrics.JPG)
+
+Pay attention to the recall metric, since it is the most important one. After all, the main goal is to minimize the error to predict the customers that'll be in churn situation.
+
+<br />
+<br />
+
+Confusion Matrix of the best model after using hyperparameter fine tuning
 ![](img/confusion_matrix.JPG)
