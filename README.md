@@ -74,7 +74,7 @@ ___
 It was observed the credit score has a great influence in churn situation
 
 ## Credit score range
-![](img/credit_score.jpg)
+![](img/credit_score.JPG)
 
 
 ## Credit score factors
