@@ -94,7 +94,7 @@ It was observed the credit score has a great influence in churn situation
 
 In this problem the data is unbalanced which require some techniques to balance the output variable.
 
-![](img/balance_data.jpg)
+![](img/balance_data.JPG)
 
 
 <br />
@@ -105,4 +105,4 @@ ___
 <br />
 The confusion matrix after all attempts throughout the project
 
-![](img/confusion_matrix.jpg)
+![](img/confusion_matrix.JPG)
