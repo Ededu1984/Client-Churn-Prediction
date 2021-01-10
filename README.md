@@ -117,4 +117,16 @@ Pay attention to the recall metric, since it is the most important one. After al
 <br />
 
 Confusion Matrix of the best model after using hyperparameter fine tuning
-![](img/confusion_matrix.JPG)
+![](img/confusion_matrix.png)
+
+
+<br />
+<br />
+
+The AUC-ROC curve showing the algorithms performance: Random Forest, SVC and XGBoost.
+![](img/ROC_curve.png)
+
+The Random Forest had a better performance with AUC = 0.969
+
+PS: The libraries used to run the code are included in the file requirements.txt 
+In case someone need to run in another computer, all they have to do is to create an virtual enviroment in Anaconda or Pyenv using the .txt file mentioned before.
