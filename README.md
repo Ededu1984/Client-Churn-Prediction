@@ -94,7 +94,7 @@ It was observed the credit score has a great influence in churn situation
 
 In this problem the data is unbalanced which require some techniques to balance the output variable.
 
-![](img/balance_data.JPG)
+![](img/balance_data.jpg)
 
 
 <br />
@@ -109,7 +109,7 @@ Metrics of the best model after using hyperparameter fine tuning
 
 <br />
 
-![](img/metrics.JPG)
+![](img/metrics.jpg)
 
 Pay attention to the recall metric, since it is the most important one. After all, the main goal is to minimize the error to predict the customers that'll be in churn situation.
 
